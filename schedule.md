@@ -1,6 +1,7 @@
 Quantum Computing Collective Spring 2021 Schedule
 ========================================
 
+
 ## Events
 
 - Beginner Labs:
