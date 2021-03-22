@@ -1,0 +1,1 @@
+## Link to QCC's Medium Blog
