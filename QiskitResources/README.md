@@ -1,1 +1,1 @@
-## All of IBM's Quiskit Resources can be found here
+## All of IBM's Qiskit Resources can be found here
